@@ -8,3 +8,4 @@ console.log('working in feature/TEST01');
 
 console.log('working in feature!!!');
 
+console.log('feature2');

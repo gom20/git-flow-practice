@@ -11,3 +11,4 @@ console.log('working in feature!!!');
 console.log('feature2');
 
 console.log('hotfix added');
+console.log('hotfix modified');

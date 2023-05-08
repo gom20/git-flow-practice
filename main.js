@@ -13,3 +13,4 @@ console.log('feature2');
 console.log('hotfix2');
 
 console.log('hotfix added');
+console.log('hotfix modified');
